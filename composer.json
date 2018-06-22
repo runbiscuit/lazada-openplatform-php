@@ -1,0 +1,15 @@
+l{
+    "name": "theroyalstudent/lazada-openplatform-php",
+    "description": "Lazada Open Platform PHP Library",
+    "type": "library",
+    "license": "CC-BY-SA-3.0",
+    "authors": [
+        {
+            "name": "Edwin A.",
+            "email": "edwin@theroyalstudent.com"
+        }
+    ],
+    "require": {
+
+    }
+}
